@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\Population\Population\bin\Debug\net6.0\Population.exe
+C:\Users\Asus\source\repos\Population\Population\bin\Debug\net6.0\Population.deps.json
+C:\Users\Asus\source\repos\Population\Population\bin\Debug\net6.0\Population.runtimeconfig.json
+C:\Users\Asus\source\repos\Population\Population\bin\Debug\net6.0\Population.dll
+C:\Users\Asus\source\repos\Population\Population\bin\Debug\net6.0\Population.pdb
+C:\Users\Asus\source\repos\Population\Population\obj\Debug\net6.0\Population.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Population\Population\obj\Debug\net6.0\Population.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Population\Population\obj\Debug\net6.0\Population.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Population\Population\obj\Debug\net6.0\Population.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Population\Population\obj\Debug\net6.0\Population.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Population\Population\obj\Debug\net6.0\Population.dll
+C:\Users\Asus\source\repos\Population\Population\obj\Debug\net6.0\refint\Population.dll
+C:\Users\Asus\source\repos\Population\Population\obj\Debug\net6.0\Population.pdb
+C:\Users\Asus\source\repos\Population\Population\obj\Debug\net6.0\Population.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Population\Population\obj\Debug\net6.0\ref\Population.dll
